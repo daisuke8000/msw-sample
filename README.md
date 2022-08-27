@@ -15,5 +15,10 @@
 
 ### Usage
 ```sh
-git clone 
+git clone https://github.com/daisuke8000/msw-sample.git
+```
+
+```sh
+cd msw-sample
+npm run start
 ```
