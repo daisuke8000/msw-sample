@@ -20,7 +20,7 @@ git clone https://github.com/daisuke8000/msw-sample.git
 
 ```sh
 cd msw-sample
-npm run start
+npm install && npm run start
 ```
 
 ### Reference
