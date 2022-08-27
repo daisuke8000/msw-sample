@@ -23,7 +23,7 @@ cd msw-sample
 npm run start
 ```
 
-### reference
+### Reference
 https://www.apollographql.com/docs/
 
 https://mswjs.io/
